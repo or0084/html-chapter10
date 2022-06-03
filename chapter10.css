@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 
-header{
+header {
 
   height: 50px;
   background-color: #FF9A4B;
 }
 
-main{
+main {
   width: 960px;
   margin: 50px auto;
   display: flex;
@@ -28,28 +28,28 @@ main{
   margin-right: 0;
 }
 
-.step-img1{
+.step-img1 {
   height: 150px;
   background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
-.step-img2{
+.step-img2 {
   height: 150px;
   background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
-.step-img3{
+.step-img3 {
   height: 150px;
   background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
 
-.step-num{
+.step-num {
   position: absolute;
   top:0;
   left:0;
@@ -57,11 +57,11 @@ main{
   color: #fff;
 }
 
-.title{
+.title {
   margin: 15px 0 5px;
 }
 
-footer{
+footer {
   height: 50px;
   background-color: #aaa;
 }
